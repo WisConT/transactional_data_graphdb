@@ -92,7 +92,7 @@ The test/sample data we will use for development/debug will be located in the da
 # Code Changes/Review Process
 ------------
 
-This repository has 3 core branches:
+This repository has 2 core branches:
 - master
 - develop (default)
 
